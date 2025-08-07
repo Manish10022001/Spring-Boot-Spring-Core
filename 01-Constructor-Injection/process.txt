@@ -1,0 +1,4 @@
+step 1: Define the dependency interface and class
+step 2: Create Demo Rest Controller
+step 3: Create a constructor in your class for injections. (@Autowired before constructor , it tell spring to inject dependency)
+step 4: Add @GetMapping for /workout
